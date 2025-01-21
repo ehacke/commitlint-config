@@ -25,7 +25,7 @@
     "lint"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "index.mjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ehacke/commitlint-config.git"
